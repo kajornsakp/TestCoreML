@@ -52,6 +52,7 @@
 		4D19A84A1F67E6250014BC1A /* TestCoreMLUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestCoreMLUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D19A84E1F67E6250014BC1A /* testbarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testbarUITests.swift; sourceTree = "<group>"; };
 		4D19A8501F67E6250014BC1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D1FF74B1F74FADB00A25527 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		4DD78CF01F690B7300ABA71C /* Resnet50.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Resnet50.mlmodel; sourceTree = "<group>"; };
 		4DD78CF21F69128B00ABA71C /* MobileNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MobileNet.mlmodel; sourceTree = "<group>"; };
 		4DD78CF41F69171100ABA71C /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 		4D19A8221F67E6250014BC1A = {
 			isa = PBXGroup;
 			children = (
+				4D1FF74B1F74FADB00A25527 /* README.md */,
 				4D19A82D1F67E6250014BC1A /* testbar */,
 				4D19A8421F67E6250014BC1A /* testbarTests */,
 				4D19A84D1F67E6250014BC1A /* testbarUITests */,
